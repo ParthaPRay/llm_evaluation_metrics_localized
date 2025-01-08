@@ -1,10 +1,13 @@
-Here is a brief README for your project:
-
----
-
-# LLM Evaluation Metrics
+# LLM Evaluation Metrics at Edge
 
 This project provides a Flask-based API for evaluating and monitoring the performance of Large Language Models (LLMs) with detailed metrics including resource usage (CPU, memory, power), and operational efficiency.
+
+---
+## Modify base_power and max_power of your device
+
+# base_power = The Value 240 IDLE Mode
+# max_power = The Value e.g. 600  FULL MODE
+---
 
 ## Installation
 
