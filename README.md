@@ -5,8 +5,8 @@ This project provides a Flask-based API for evaluating and monitoring the perfor
 ---
 ## Modify base_power and max_power of your device
 
-* base_power = The Value 240 IDLE Mode
-* max_power = The Value e.g. 600  FULL MODE
+* base_power = The Value e.g., 240 ; for IDLE Mode
+* max_power = The Value e.g. 600 ; for FULL MODE
 ---
 
 ## Installation
