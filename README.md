@@ -36,17 +36,11 @@ These are already listed in the `requirements.txt` file.
 
 ## Running the Application
 
-Use
-
-llm_metrics_9.py for terminal output
-
-or
-
-llm_metrics_10.py has CSV logging
+llm_metrics_11.py has CSV and JSON logging
 
 1. Start the Flask server:
    ```bash
-   python llm_metrics_10.py
+   python llm_metrics_11.py
    ```
 
 2. The server will start and listen on `http://0.0.0.0:5000`.
