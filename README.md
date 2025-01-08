@@ -58,6 +58,10 @@ curl -X POST http://localhost:5000/process_prompt \
     "prompt": "What is the capital of France?"
 }'
 ```
+#### Example `batch curl` Code
+```python
+python test.py
+```
 
 #### Response
 The API will return a JSON object containing:
