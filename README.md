@@ -12,7 +12,7 @@ This project provides a Flask-based API for evaluating and monitoring the perfor
 ## Installation
 
 ### Step 1: Install Ollama
-Ensure that you have **Ollama** installed on your system. Refer to [Ollama's official installation guide](https://ollama.ai) for instructions.
+Ensure that you have **Ollama** installed on your system. Refer to [Ollama's official installation guide](https://ollama.com) for instructions.
 
 ### Step 2: Set Up Python Environment
 1. Clone this repository:
@@ -35,9 +35,18 @@ Ensure the following Python libraries are installed:
 These are already listed in the `requirements.txt` file.
 
 ## Running the Application
+
+Use
+
+llm_metrics_9.py for terminal output
+
+or
+
+llm_metrics_10.py has CSV logging
+
 1. Start the Flask server:
    ```bash
-   python main.py
+   python llm_metrics_10.py
    ```
 
 2. The server will start and listen on `http://0.0.0.0:5000`.
