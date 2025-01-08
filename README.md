@@ -1,6 +1,8 @@
 # llm_evaluation_metrics_localized
 This repo contains codes localized llm evaluation metrics
 
+This sentence uses `$` delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$
+
 # Classification and Mathematical Representation of Metrics
 
 ## **1. Performance Metrics**
