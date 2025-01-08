@@ -31,6 +31,8 @@ Ensure the following Python libraries are installed:
 - `flask`
 - `psutil`
 - `requests`
+- `uvicorn`
+- `asgiref`
 
 These are already listed in the `requirements.txt` file.
 
