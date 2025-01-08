@@ -5,6 +5,10 @@ Here’s the systematic classification of all metrics from the code, with mathem
 
 ---
 
+  \[
+  T_{\text{total}} = \frac{\text{total\_duration\_ns}}{10^9}
+  \]
+  
 ### **1. Performance Metrics**
 These metrics measure how efficiently the model performs in terms of time and throughput.
 
