@@ -1,3 +1,5 @@
 flask
+uvicorn
+asgiref
 psutil
 requests
